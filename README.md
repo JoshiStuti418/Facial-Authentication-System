@@ -2,7 +2,7 @@
 > Facial Authentication System is a web application that performs real-time webcam & video face tracking as well as detect and identify faces from images with the help of pre-trained models from [face-api.js](https://github.com/justadudewhohacks/face-api.js).
 
 # Live Demo
-https://willtrinh.github.io/Facial Authentication System/face_recognition
+https://willtrinh.github.io/face_recognition/face_recognition
 
 # Features
 ## Face Detection & Identification
