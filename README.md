@@ -1,8 +1,8 @@
-# face-recognition
-> face-recognition is a web application that performs real-time webcam & video face tracking as well as detect and identify faces from images with the help of pre-trained models from [face-api.js](https://github.com/justadudewhohacks/face-api.js).
+# Facial Authentication System
+> Facial Authentication System is a web application that performs real-time webcam & video face tracking as well as detect and identify faces from images with the help of pre-trained models from [face-api.js](https://github.com/justadudewhohacks/face-api.js).
 
 # Live Demo
-https://willtrinh.github.io/face-recognition/face_recognition
+https://willtrinh.github.io/Facial Authentication System/face_recognition
 
 # Features
 ## Face Detection & Identification
@@ -19,7 +19,7 @@ Trained the model using dataset from labeled images to be able to detect and rec
 ## Video Face Tracking
 Real-time face detection & expression tracking
 
-![video-face-tracking](https://raw.githubusercontent.com/willtrinh/face-recognition/master/public/examples/video-face-tracking.gif)
+![video-face-tracking](https://raw.githubusercontent.com/willtrinh/Facial Authentication System/master/public/examples/video-face-tracking.gif)
 
 ## Webcam Face Tracking
 Enable webcam to let the application performs real-time face detection & face expression recognition.
